@@ -12,7 +12,7 @@ I maintain a website with my small lab notebook kind of blog. You can [learn mor
 
 ### My presence and impact
 
-I'm the author of the most complex Malbolge Unshackled program - a Lisp interpreter - as of 2020 (and 2021, and still going - first ever non-trivial language implemented in it). I also made the most efficient Mersenne Twister cracker allowing the recovery of initial seeds. I posted the entire algorithm overview and a reference implementation to the general public on my blog.
+I'm the author of the most complex Malbolge Unshackled program - a Lisp interpreter - as of 2020 (and 2021, and still going - first ever non-trivial language implemented in it). I also made the most efficient Mersenne Twister cracker allowing the recovery of initial seeds. I provided the entire algorithm overview and a reference implementation to the general public on my blog.
 
 I also developed a 5 kilobyte decompressor (Windows `.exe`) for a compression algorithm outperforming LZMA and GZip.
 
