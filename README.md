@@ -22,6 +22,6 @@ I'm the author of asm2bf, the most advanced brainfuck toolkit staying true to br
 
 I collect donations via [LiberaPay](https://liberapay.com/kspalaiologos/).
 
-As stated on my profile, I can't provide consistent rewards for donations. Although, if you end up donating to me, be sure to message me on Matrix, Discord or Twitter (everything is on my website; pick whichever you feel comfortable with). We can always talk about any programming-related topic you'd like.
+As stated on my profile, I can't provide consistent rewards for donations. Although, if you end up donating to me, make sure to message me on Matrix, Discord or Twitter (everything is on my website; pick whichever you feel comfortable with). We can always talk about any programming-related topic you'd like.
 
 The money from donations I receive will cover both my server costs and the costs of my non-essential medical treatment.
