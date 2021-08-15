@@ -4,11 +4,12 @@ I'm Palaiologos (she/her) and I'm a mathematician, array lang & low level develo
 - https://codegolf.stackexchange.com/users/61379/kamila-szewczyk
 - https://t.me/kspalaiologos
 - https://twitter.com/realpalaiologos
+- https://m.akagi.moe/~kamila/ (a self-hosted sourcehut instance)
 - Discord: Palaiologos#5585, or join [my server](https://discord.gg/m4Wcenn).
 
 ### My website
 
-I maintain a website with my small lab notebook kind of blog. You can [learn more about me](https://palaiologos.rocks/about/) there.
+I maintain a website with my small lab notebook kind of blog. You can [learn more about me](https://kamila.akagi.moe/about/) there.
 
 ### My presence and impact
 
