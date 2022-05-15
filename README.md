@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Palaiologos (she/her) and I'm a mathematician, array lang & low level developer. My interests include chess, reverse-engineering (trying to make it harder in particular), C, C++, x86 assembly, Perl, the JVM, functional programming and APL. I do compiler construction fairly often. Reach out to me at:
+I'm Palaiologos and I'm a mathematician, array lang & low level developer. My interests include chess, reverse-engineering (trying to make it harder in particular), C, C++, x86 assembly, Perl, the JVM, functional programming and APL. I do compiler construction fairly often. Reach out to me at:
 - https://codegolf.stackexchange.com/users/61379/kamila-szewczyk
 - https://t.me/kspalaiologos
 - https://twitter.com/realpalaiologos
