@@ -1,7 +1,7 @@
 ### Hello!
 
 I'm Palaiologos and I'm a mathematician, array lang & low level developer. My interests include chess, reverse-engineering (trying to make it harder in particular), C, C++, x86 assembly, Perl, the JVM, functional programming and APL. I do compiler construction fairly often. Reach out to me at:
-- https://codegolf.stackexchange.com/users/61379/kamila-szewczyk
+- https://codegolf.stackexchange.com/users/61379/kamila-Szewczyk
 - https://t.me/kspalaiologos
 - https://twitter.com/realpalaiologos
 - Matrix (preferred): kamila@coven.palaiologos.rocks
@@ -15,7 +15,7 @@ I maintain a website with my small lab notebook kind of blog. You can [learn mor
 
 ### Donations
 
-I collect donations via [LiberaPay](https://liberapay.com/kspalaiologos/).
+I'm accepting donations via Patreon, however, due to moving countries I'm not finished altering my account yet.
 
 As stated on my profile, I can't provide consistent rewards for donations. Although, if you end up donating to me, make sure to message me on Matrix, Discord or Twitter (everything is on my website; pick whichever you feel comfortable with). We can always talk about any programming-related topic you'd like.
 
