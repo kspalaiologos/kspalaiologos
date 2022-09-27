@@ -15,8 +15,4 @@ I maintain a website with my small lab notebook kind of blog. You can [learn mor
 
 ### Donations
 
-I'm accepting donations via Patreon, however, due to moving countries I'm not finished altering my account yet.
-
-As stated on my profile, I can't provide consistent rewards for donations. Although, if you end up donating to me, make sure to message me on Matrix, Discord or Twitter (everything is on my website; pick whichever you feel comfortable with). We can always talk about any programming-related topic you'd like.
-
-The money from donations I receive will cover both my server costs and the costs of my non-essential medical treatment.
+I'm accepting donations via Patreon: https://www.patreon.com/kspalaiologos
