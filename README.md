@@ -16,3 +16,11 @@ I maintain a website with my small lab notebook kind of blog. You can [learn mor
 ### Donations
 
 I'm accepting donations via Patreon: https://www.patreon.com/kspalaiologos
+
+### Focus
+
+Currently focusing on the following projects:
+- [mp-rs](https://github.com/kspalaiologos/mp-rs), a multiprecision numerics library for Rust.
+- [bzip3](https://github.com/kspalaiologos/bzip3), a spiritual successor to bzip2.
+- [kamilalisp](https://github.com/kspalaiologos/kamilalisp), a Lisp I dreamed up.
+- [modern-rzip](https://github.com/modern-rzip/modern-rzip), a modernised version of the rzip utility with many additional features.
