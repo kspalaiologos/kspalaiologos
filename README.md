@@ -6,9 +6,6 @@ I'm Palaiologos and I'm a mathematician, array lang & low level developer. My in
 - https://twitter.com/realpalaiologos
 - Matrix (preferred): kamila@coven.palaiologos.rocks
 
-I also have my own Git instance for more unpolished projects:
-- https://git.palaiologos.rocks/
-
 ### My website
 
 I maintain a website with my small lab notebook kind of blog. You can [learn more about me](https://palaiologos.rocks/about/) there.
