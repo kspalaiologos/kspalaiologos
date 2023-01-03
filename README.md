@@ -8,7 +8,7 @@ I'm Palaiologos and I'm a mathematician, array lang & low level developer. My in
 
 ### My website
 
-I maintain a website with my small lab notebook kind of blog. You can [learn more about me](https://palaiologos.rocks/) there. Alternatively, you can [read my blog](https://palaiologos.rocks/blog).
+I maintain a website with my small lab notebook kind of blog. You can [learn more about me](https://palaiologos.rocks/) there. Alternatively, you can [read my blog](https://palaiologos.rocks/essays).
 
 ### Donations
 
