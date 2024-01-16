@@ -6,7 +6,3 @@ I'm an expert programmer and aspiring mathematician, primarily interested in com
 https://palaiologos.rocks/
 
 ![](https://komarev.com/ghpvc/?username=kspalaiologos&color=ff69b4)
-
-### Donations
-
-I'm accepting donations via Patreon: https://www.patreon.com/kspalaiologos
