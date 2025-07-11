@@ -5,6 +5,6 @@ I'm an expert programmer and aspiring mathematician, primarily interested in com
 
 Presently I am focusing on graduate school applications and my thesis, hence please expect less GitHub activity from me.
 
-https://palaiologos.rocks/
+https://iczelia.net/
 
 ![](https://komarev.com/ghpvc/?username=kspalaiologos&color=ff69b4)
